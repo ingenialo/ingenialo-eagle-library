@@ -632,8 +632,8 @@
 <rectangle x1="-17.78" y1="-5.08" x2="20.32" y2="7.62" layer="94"/>
 </symbol>
 <symbol name="DOGM128">
-<pin name="VDD" x="-15.24" y="-20.32" length="short" direction="pwr" rot="R90"/>
-<pin name="VSS" x="-12.7" y="-20.32" length="short" direction="pwr" rot="R90"/>
+<pin name="VDD" x="-17.78" y="-20.32" length="short" direction="pwr" rot="R90"/>
+<pin name="VSS" x="-15.24" y="-20.32" length="short" direction="pwr" rot="R90"/>
 <pin name="VOUT" x="-10.16" y="-20.32" length="short" direction="pas" rot="R90"/>
 <pin name="V4" x="-7.62" y="-20.32" length="short" direction="pas" rot="R90"/>
 <pin name="V3" x="-5.08" y="-20.32" length="short" direction="pas" rot="R90"/>
